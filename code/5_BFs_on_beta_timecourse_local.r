@@ -58,7 +58,7 @@ for (channel in 1:2) {
 
   # Get nullInterval limits for the cauchy prior. We'll do this by iteratively splitting the baseline data 
   # (averaged over epochs) into random halves and computing an effect size (d). We'll take the mean effect size 
-  # (man_d) as the lower limit of the nullInterval parameter.  Note that, for simplicity, we perform this step whether 
+  # (mean_d) as the lower limit of the nullInterval parameter.  Note that, for simplicity, we perform this step whether 
   # or not use_null_interval is True - if False, we simply do not use mean_d when computing the Bayes Factors.
 
   # Define empty list to store effect sizes
