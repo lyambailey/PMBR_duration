@@ -2,4 +2,4 @@
 
 This repository contains code used in preparation of Bailey & Bardouille (under review)
 
-[1] Bailey, L.M., Bardouille, T. (under review). When will it end? Investigating the duration of the post-movement beta rebound (PMBR) following cued button pressing in a large open-access MEG dataset.
+[1] Bailey, L.M., Bardouille, T. (under review). Give it some time: Demonstrating the need for long inter-stimulus intervals when studying the post-movement beta rebound following a simple button press
