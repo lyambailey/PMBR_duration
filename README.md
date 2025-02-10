@@ -1,5 +1,5 @@
 # Overview
 
-This repository contains code used in preparation of Bailey & Bardouille (under review)
+This repository contains code used in preparation of [Bailey & Bardouille (2025)][1]
 
-[1]: Bailey, L.M., Bardouille, T. (under review). Demonstrating the need for long inter-stimulus intervals when studying the post-movement beta rebound following a simple button press
+[1]: https://www.biorxiv.org/content/10.1101/2025.01.22.634263v1 
